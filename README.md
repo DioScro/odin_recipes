@@ -1,1 +1,1 @@
-# odin_recipes
+odin_recipes is my first project, in which I'm using basic HTML concepts from The Odin Project lessons to create a basic recipe website. In the future, I will return to this project to update it with CSS knowledge.
